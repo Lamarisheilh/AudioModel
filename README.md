@@ -1,4 +1,3 @@
-# AudioModel
 # 🎙 Speaker Recognition Model
 
 This project implements a speaker recognition model that can identify and label different speakers in an audio file. It's useful for speaker diarization, transcription, and analyzing conversations involving multiple people.
